@@ -11,8 +11,8 @@ Major in C.S. in Handong Global Univ.<br>
 
 <a href="https://github.com/KimSeoYe" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://kimseoye.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="mailto:kimseoye15@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimseoye15@gmail.com"/></a>
-<a href="mailto:21800088@handong.edu"><img src="https://img.shields.io/badge/SchoolMail-blue?style=flat-square&logo=Gmail&logoColor=white&link=21800088@handong.edu"/></a>
+<a href="mailto:kimseoye15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:21800088@handong.edu" target="_blank"><img src="https://img.shields.io/badge/SchoolMail-blue?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimSeoYe%2FKimSeoYe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KimSeoYe?style=social">
