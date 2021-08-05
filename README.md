@@ -1,6 +1,6 @@
 ### Hi there 👋
 Major in C.S. in Handong Global Univ.<br>
-**Goal :** Being a good influence on people as a developer👩‍💻 <br>
+**Goal :** Being a good influence on people as an engineer<br>
 **Motto :** Every moment, no regrets :)
 
 
