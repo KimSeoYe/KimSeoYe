@@ -2,7 +2,7 @@
 Major in C.S. in Handong Global Univ.<br>
 **Goal :** Being a good influence on people as an engineer<br>
 **Motto :** Every moment, no regrets :)
-
+**Interests :** SW Testing & Debugging, Fuzzing
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYe&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
