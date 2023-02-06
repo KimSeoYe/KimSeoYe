@@ -1,8 +1,8 @@
 ### Hi there 👋
-Major in C.S. in Handong Global Univ.<br>
+Taking a master's degree at KAIST.
 **Goal :** Being a good influence on people as an engineer<br>
 **Motto :** Every moment, no regrets :)<br>
-**Current Interests :** SW Testing & Debugging, Fuzzing<br>
+**Current Interests :** System, Testing and Debugging<br>
 **Profile :** [Visit here](https://kimseoye.github.io/about.html)
 
 
