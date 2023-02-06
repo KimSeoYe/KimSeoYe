@@ -1,5 +1,5 @@
 ### Hi there 👋
-Taking a master's degree at KAIST.
+Taking a master's degree at KAIST.<br>
 **Goal :** Being a good influence on people as an engineer<br>
 **Motto :** Every moment, no regrets :)<br>
 **Current Interests :** System, Testing and Debugging<br>
