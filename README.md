@@ -10,8 +10,8 @@ Master Student at KAIST<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSeoYe&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <a href="https://kimseoye.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
 <a href="https://github.com/KimSeoYe" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://kimseoye.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-blueviolet?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:kimseoye.public@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:kimseoye@kaist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail-blue?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
