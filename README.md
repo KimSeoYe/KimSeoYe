@@ -2,7 +2,7 @@
 Master Student at KAIST<br>
 **Goal :** Being a good influence on people as an engineer<br>
 **Motto :** Every moment, no regrets :)<br>
-**Current Interests :** System, Testing<br>
+**Current Interests :** System Security, Testing<br>
 **Profile :** [Visit here](https://kimseoye.github.io/about.html)
 
 
