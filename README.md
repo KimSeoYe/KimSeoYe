@@ -1,9 +1,7 @@
 ### Hi there 👋
 Master Student at KAIST<br>
-**Goal :** Being a good influence on people as an engineer<br>
-**Motto :** Every moment, no regrets :)<br>
-**Current Interests :** System Security, Testing<br>
-**Profile :** [Visit here](https://kimseoye.github.io/about.html)
+**Current Interests :** System Security, SW Testing<br>
+<!--**Profile :** [Visit here](https://kimseoye.github.io/about.html)-->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYe&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
