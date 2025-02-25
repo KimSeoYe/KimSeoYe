@@ -1,5 +1,5 @@
 ### Hi there 👋
-Master Student at KAIST<br>
+Ph.D Student at KAIST<br>
 **Current Interests :** System Security, SW Testing<br>
 <!--**Profile :** [Visit here](https://kimseoye.github.io/about.html)-->
 
