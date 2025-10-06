@@ -1,7 +1,6 @@
 ### Hi there 👋
-Ph.D Student at KAIST<br>
-**Current Interests :** System security, Hardware security, Security monitor, Software supply chain security<br>
-<!--**Profile :** [Visit here](https://kimseoye.github.io/about.html)-->
+Ph.D Student at KAIST, Korea<br>
+**CV:** [Visit here](https://kimseoye.github.io/about.html)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeoYe&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
